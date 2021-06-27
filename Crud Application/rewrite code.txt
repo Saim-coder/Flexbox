@@ -1,0 +1,8 @@
+first document.get element and then event listner
+and then fuction start
+get value
+and show in document
+and then
+document . create element and show table
+and check box create and edit and delete button create
+ 
